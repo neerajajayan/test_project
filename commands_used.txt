@@ -1,0 +1,16 @@
+   95  cd ..
+   96  cd 'desktop'
+   97  cd test_app
+   98  mkdir f1
+   99  mkdir f2 f3 f4
+  100  rmdir f3
+  101  rmdir f4
+  102  rmdir f1
+  103  rm -r f1
+  104  touch f1.py
+  105  touch f2.sql f3.txt f4.py
+  106  cat f3.txt
+  107  nano f1.py
+  108  nano f1.py
+  109  cat f1.py
+  110  history
